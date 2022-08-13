@@ -1,5 +1,6 @@
 # PencariJodoh
 Script pencari jodoh bagi cowo maupun cewe
+inget ini sc hanya hiburan saja:)
 
 # Cara menggunakannya
 ```
